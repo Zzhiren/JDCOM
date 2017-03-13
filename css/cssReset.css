@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #f6f6f6;
+    overflow: hidden;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+div {
+    display: block;
+    border: none;
+}
